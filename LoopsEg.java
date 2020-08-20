@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class LoopsEg {
 
 	public static void main(String[] args) {
-		// write a code to add n natural mumbers 
+		//// write a code to add n natural mumbers 
 		int sum=0;
 		System.out.println("-----------------------------------------------------");
 		System.out.println("------------Program to find sum of n natural number--");
